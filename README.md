@@ -42,3 +42,8 @@ Pituitary_tumor.pdf, and Pituitary_tumor.ipynb is transferred to pdf
 reference paper.pdf is a reference for feature extraction and classifier design in the first way
 
 <img width="865" alt="tools" src="https://github.com/VGuoGavin/Pituitary-segmentation-and-classification/assets/53364849/bedef33d-ad55-495e-b153-9e673b435b55">
+
+# Funding
+This project is supported by Neurosurgery team, Beijing Tiantan Hospital.
+
+https://www.mingyihui.net/hospital_84.html
